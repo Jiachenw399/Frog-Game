@@ -20,3 +20,4 @@ direction at the same speed. If the log or turtle carries the frog so that it to
 the frog dies and is forced to restart at the bottom of the screen.
 
 You can use the arrows on your keyboard to control the frog.
+### pull requests are welcomed 
